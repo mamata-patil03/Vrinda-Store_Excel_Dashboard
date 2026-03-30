@@ -1,5 +1,7 @@
 📊 Vrinda Store Sales Analysis Dashboard
+
 End-to-End Data Analytics Project | Excel • Data Visualization
+
 This project analyzes Vrinda Store’s 2022 sales data to uncover insights into customer behavior, sales performance, and regional trends. The goal is to support data-driven business decisions using an interactive dashboard.
 
 📌 Project Overview
